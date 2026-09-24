@@ -1,6 +1,22 @@
 # Visual Studio 2015 user specific files
 .vs/
 
+# Unreal Engine Temporary & Generated Folders
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+_BuiltData.uasset
+
+# IDE and Project files
+.vs/
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+
+
 # Compiled Object files
 *.slo
 *.lo
